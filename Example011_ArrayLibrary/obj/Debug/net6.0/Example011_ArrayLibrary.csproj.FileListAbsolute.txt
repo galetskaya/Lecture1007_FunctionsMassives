@@ -1,0 +1,15 @@
+/Users/alikagaletsky/Документы/GeekBrains/Lecture1007/Functions/Example011_ArrayLibrary/bin/Debug/net6.0/Example011_ArrayLibrary
+/Users/alikagaletsky/Документы/GeekBrains/Lecture1007/Functions/Example011_ArrayLibrary/bin/Debug/net6.0/Example011_ArrayLibrary.deps.json
+/Users/alikagaletsky/Документы/GeekBrains/Lecture1007/Functions/Example011_ArrayLibrary/bin/Debug/net6.0/Example011_ArrayLibrary.runtimeconfig.json
+/Users/alikagaletsky/Документы/GeekBrains/Lecture1007/Functions/Example011_ArrayLibrary/bin/Debug/net6.0/Example011_ArrayLibrary.dll
+/Users/alikagaletsky/Документы/GeekBrains/Lecture1007/Functions/Example011_ArrayLibrary/bin/Debug/net6.0/Example011_ArrayLibrary.pdb
+/Users/alikagaletsky/Документы/GeekBrains/Lecture1007/Functions/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.csproj.AssemblyReference.cache
+/Users/alikagaletsky/Документы/GeekBrains/Lecture1007/Functions/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alikagaletsky/Документы/GeekBrains/Lecture1007/Functions/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.AssemblyInfoInputs.cache
+/Users/alikagaletsky/Документы/GeekBrains/Lecture1007/Functions/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.AssemblyInfo.cs
+/Users/alikagaletsky/Документы/GeekBrains/Lecture1007/Functions/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.csproj.CoreCompileInputs.cache
+/Users/alikagaletsky/Документы/GeekBrains/Lecture1007/Functions/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.dll
+/Users/alikagaletsky/Документы/GeekBrains/Lecture1007/Functions/Example011_ArrayLibrary/obj/Debug/net6.0/refint/Example011_ArrayLibrary.dll
+/Users/alikagaletsky/Документы/GeekBrains/Lecture1007/Functions/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.pdb
+/Users/alikagaletsky/Документы/GeekBrains/Lecture1007/Functions/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.genruntimeconfig.cache
+/Users/alikagaletsky/Документы/GeekBrains/Lecture1007/Functions/Example011_ArrayLibrary/obj/Debug/net6.0/ref/Example011_ArrayLibrary.dll
